@@ -12,10 +12,6 @@ The arrows represents the data flow direction, the white blocks represents the n
 
 Tested with: python 3.7, 3.8 and PyTorch 1.2 1.5
 
-### Pre-process
-
-## Aim
-
-## Results
 
 ## Cite as:
+https://iopscience.iop.org/article/10.1088/1674-4527/20/12/204/meta
